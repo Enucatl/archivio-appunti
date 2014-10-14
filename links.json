@@ -1,0 +1,81 @@
+[
+    {
+    "classe": "scienze naturali",
+    "links": [
+        {
+        "corso": "complementi di analisi",
+        "prof": "Mariconda",
+        "titolo": "dispense ed esercizi",
+        "autore": "sconosciuto",
+        "link": "https://www.dropbox.com/sh/bhwotrtly9uehn7/83nW8roRra/complementi.zip"
+    },
+    {
+        "corso": "fluidodinamica",
+        "prof": "Turolla",
+        "titolo": "appunti",
+        "autore": "Taufer",
+        "link": "http://www.spiro.fisica.unipd.it/~antonell/archivio/files/fluidoTAUFER.pdf"
+    },
+    {
+        "corso": "fluidodinamica",
+        "prof": "Turolla",
+        "titolo": "a",
+        "autore": "sconosciuto",
+        "link": "http://www.spiro.fisica.unipd.it/~antonell/archivio/files/a.pdf"
+    },
+    {
+        "corso": "fluidodinamica",
+        "prof": "Turolla",
+        "titolo": "lubrido",
+        "autore": "sconosciuto",
+        "link": "http://www.spiro.fisica.unipd.it/~antonell/archivio/files/lubrido2013.pdf"
+    },
+    {
+        "corso": "teoria della misura",
+        "prof": "Lamberti e Ciatti",
+        "titolo": "appunti",
+        "autore": "Letizia",
+        "link": "http://www.spiro.fisica.unipd.it/~antonell/archivio/files/appunti_letizia.pdf"
+    },
+    {
+        "corso": "teoria della misura",
+        "prof": "Lamberti e Ciatti",
+        "titolo": "programma parte I 2012/2013",
+        "autore": "prof",
+        "link": "http://www.spiro.fisica.unipd.it/~antonell/archivio/files/programma_tdm_2012_2013.pdf"
+    },
+    {
+        "corso": "teoria della misura",
+        "prof": "Lamberti e Ciatti",
+        "titolo": "dispense",
+        "autore": "prof",
+        "link": "http://www.spiro.fisica.unipd.it/~antonell/archivio/files/Teoria_della_misura_1.pdf"
+    },
+    {
+        "corso": "probabilità",
+        "prof": "Pavon",
+        "titolo": "dispense ed esercizi",
+        "autore": "prof",
+        "link": "https://www.dropbox.com/sh/bhwotrtly9uehn7/GZwJNa8Db8/modelli.zip"
+    },
+    {
+        "corso": "probabilità",
+        "prof": "Pavon",
+        "titolo": "vecchi esami",
+        "autore": "sconosciuto",
+        "link": "http://www.spiro.fisica.unipd.it/~antonell/archivio/files/Pavon_Vecchi_esami.zip"
+    }
+    ]
+},
+{
+    "classe": "scienze morali",
+    "links": [
+    ]
+},
+{
+    "classe": "scienze sociali",
+    "links": [
+    ]
+}
+]
+
